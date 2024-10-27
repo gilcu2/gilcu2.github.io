@@ -11,5 +11,5 @@ Software Engineer with experience in Banck-end, Data and Machine Learning
 
 ## Skills
 
-- Programming Languages: Python, Scala, Golang, Bash, Kotlin, Rust, C#
+- Programming Languages: Python, Scala, Bash, AWK, Golang, Rust,  Kotlin,  C#
 - Libraries: Apache Spark, 
