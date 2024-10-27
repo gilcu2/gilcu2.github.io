@@ -1,4 +1,4 @@
-# Reynaldo José Gil García Personal Homepage
+# Reynaldo José Gil García
 
 I am Software Engineer with 25 years of experience in the Software Production sector,
 with a strong focus on Python and Scala ecosystems in the last 10 years. 
