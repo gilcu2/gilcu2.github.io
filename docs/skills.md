@@ -1,7 +1,9 @@
 - Programming Languages: Python, Scala, Bash, AWK, Golang, Rust,  Kotlin,  C#
-- Libraries: Pydantic, Celery, AnyIO,Httpx, NumPy, Scipy, NLTK, Spacy, Apache Spark, Pandas, MPI
+- Data processing: Apache Spark, Pandas, MPI
+- Libraries: Pydantic, Celery, AnyIO,Httpx, NumPy, Scipy, NLTK, Spacy, matplotlib
 - Machine Learning: PyTorch, HugginFace, Ollama, Llama
-- Cloud: AWS,S3, CloudWatch, ECR, EC2, EMR, GLUE, Lambda, Docker, Kubernetes, Serverless, Terraform, Pulumi, CloudFormation, AirFlow
+- Cloud: AWS,S3, CloudWatch, ECR, EC2, EMR, GLUE, Lambda, GCP
+- Deployment:  Docker, Kubernetes, Serverless, Terraform, Pulumi, CloudFormation, AirFlow
 - Databases: MySQL, Postgres, Redshift, BigQuery, ElasticSearch, MongoDB, DynamoDB, RedShift, SnowFlake
-- Backend: FastAPI,Flask,Django, Http4s,Cats-Effect,FS2,PlayFramework, AkkaHTTP, Gin
+- Backend: FastAPI, Flask, Django, Http4s, Cats-Effect,FS2, PlayFramework, AkkaHTTP, Gin
 - Other: Git, GitHub, Gitlab, Jira, Slack, Zoom, JetBrains IDES
