@@ -1,1 +1,0 @@
-Homepage make with mkdocs
