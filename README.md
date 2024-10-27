@@ -1,6 +1,6 @@
 # Reynaldo José Gil García
 
-Software Engineer with experinece in Banck-end, Data and Machine Learning
+Software Engineer with experience in Banck-end, Data and Machine Learning
 
 ## Interesting projects
 
