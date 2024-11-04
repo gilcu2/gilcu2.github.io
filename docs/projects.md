@@ -1,3 +1,4 @@
+- [Fastapi schedule formatter](https://github.com/gilcu2/scheduling_formatter): Python Fastapi to format schedules
 - [XML comparer](https://github.com/gilcu2/topdiﬀxml): Go CLI to compare XML files 
 - [Http services about music metadata](https://github.com/gilcu2/music_metadata): Functional programming, Scala, Htt4s, Cats-eﬀect, FS
 - [Estimate probability density of random variable](https://gitlab.com/gilcu2/kernel_density): Python, numpy, pandas, scipy, kiwisolver 

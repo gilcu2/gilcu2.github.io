@@ -1,7 +1,7 @@
 - Programming Languages: Python, Scala, Bash, AWK, Golang, Rust,  Kotlin,  C#
-- Data processing: Apache Spark, Pandas, MPI
-- Libraries: Pydantic, Celery, AnyIO,Httpx, NumPy, Scipy, NLTK, Spacy, matplotlib
-- Machine Learning: PyTorch, HugginFace, Ollama, Llama
+- Data processing: Kafka, Apache Spark, Pandas, MPI
+- Libraries: Pydantic, Celery, AnyIO, Httpx
+- Machine Learning: PyTorch, HuggingFace, Ollama, Llama, NumPy, Scipy, NLTK, Spacy, matplotlib
 - Cloud: AWS,S3, CloudWatch, ECR, EC2, EMR, GLUE, Lambda, GCP
 - Deployment:  Docker, Kubernetes, Serverless, Terraform, Pulumi, CloudFormation, AirFlow
 - Databases: MySQL, Postgres, Redshift, BigQuery, ElasticSearch, MongoDB, DynamoDB, RedShift, SnowFlake
