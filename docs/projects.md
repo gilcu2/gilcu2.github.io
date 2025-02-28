@@ -1,4 +1,4 @@
-- [LLM microservices](https://github.com/gilcu2/llm_service_py): Local LLM microservices with Fastapi, Ollama, Postgres
+- [LLM microservices](https://github.com/gilcu2/llm_service_py): Local LLM microservices with Fastapi, Ollama, Postgres, Kafka
 - [Fastapi schedule formatter](https://github.com/gilcu2/scheduling_formatter): Python Fastapi service to format schedules
 - [XML comparer](https://github.com/gilcu2/topdiﬀxml): Go CLI to compare XML files 
 - [Http services about music metadata](https://github.com/gilcu2/music_metadata): Functional programming, Scala, Htt4s, Cats-eﬀect, FS2
